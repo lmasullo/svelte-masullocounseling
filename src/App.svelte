@@ -166,7 +166,7 @@
 		</div>
 
 		<div class="fleximagetext">
-			<img class="imgBig" src="/images/Diane.jpg" alt="Diane Masullo" />
+			<img class="imgBig" src="/images/diane.png" alt="Diane Masullo" />
 			<div class="text-container">
 				<p><strong>Diane E. Masullo, MS, LPC, LMFT</strong></p>
 				<p>
